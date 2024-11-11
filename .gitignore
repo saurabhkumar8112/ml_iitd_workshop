@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.env
+.venv/
+data/
+wandb/
+model.pth
+.gcloud/
+credentials.json
