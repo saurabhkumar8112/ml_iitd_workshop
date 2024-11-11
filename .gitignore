@@ -7,3 +7,5 @@ wandb/
 model.pth
 .gcloud/
 credentials.json
+.dvc/
+/data
